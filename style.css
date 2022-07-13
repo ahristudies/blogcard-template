@@ -22,7 +22,7 @@ body {
   padding: 0;
   margin: 0;
   background: rgb(200,174,238);
-background: radial-gradient(circle, rgba(200,174,238,1) 0%, rgba(148,187,233,1) 100%);
+  background: radial-gradient(circle, rgba(200,174,238,1) 0%, rgba(148,187,233,1) 100%);
 }
 
 .card {
@@ -38,7 +38,6 @@ background: radial-gradient(circle, rgba(200,174,238,1) 0%, rgba(148,187,233,1) 
   box-sizing: border-box;
   display: flex;
   background-color: white;
-
 }
 
 .card .card-img img {
